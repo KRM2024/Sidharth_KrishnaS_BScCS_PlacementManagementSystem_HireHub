@@ -41,10 +41,10 @@ It provides a user-friendly interface to explore opportunities and connect with 
 ---
 
 ## Project Report
-[Click here to watch the project video](YOUR_VIDEO_LINK)
+https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/c654e5e859f09d5b63354cac18e4ca8fe3a65d27/PROJECT%20REPORT%20PDF.pdf
 ---
 
 ## Project Link
-[Click here to view the project on GitHub](YOUR_PROJECT_LINK)
+https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/
 
 ---
