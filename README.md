@@ -36,12 +36,12 @@ It provides a user-friendly interface to explore opportunities and connect with 
 ---
 
 ## Video Explanation
-https://vimeo.com/1079792403/2f38491135?share=copy
+
 
 ---
 
 ## Project Report
-https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/c654e5e859f09d5b63354cac18e4ca8fe3a65d27/PROJECT%20REPORT%20PDF.pdf
+https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf
 ---
 
 ## Project Link
