@@ -1,18 +1,6 @@
 # 📂 **Placement Management System – HireHub**
 
-**A smart, responsive platform to streamline university placement workflows, connect students with recruiters, and enhance the job-seeking experience.*
-enabling seamless interaction between students, recruiters, and administrators.*
-
----
-
-## 👨‍💻 **Team Members**
-
-| 👤 Name                   | 🆔 Roll Number   | 🎓 Course                |
-|--------------------------|------------------|--------------------------|
-| **Boora Anju**           | 2401830009       | B.Sc. Cyber Security     |
-| **Sidharth Krishna S**   | 2401720003       | B.Sc. Computer Science   |
-| **Ankit Yadav**          | 2401720012       | B.Sc. Computer Science   |
-| **K Sai Vignesh Yadav**  | 2401720006       | B.Sc. Computer Science   |
+*A smart, responsive platform to streamline university placement workflows, connect students with recruiters, and enhance the job-seeking experience — enabling seamless interaction between students, recruiters, and administrators.*
 
 ---
 
@@ -22,23 +10,23 @@ enabling seamless interaction between students, recruiters, and administrators.*
 
 The system serves as a digital bridge between aspiring candidates and potential employers by offering a centralized portal for job listings, applications, and recruitment communications. Its core goal is to eliminate manual procedures, reduce delays, and enhance transparency in campus placements.
 
-**Key Goals:**
-- Reduce dependency on offline notices and emails.
-- Allow students to browse, apply, and track opportunities with ease.
-- Provide a scalable and future-ready digital placement system.
+### 🎯 **Key Goals**
+- Minimize dependency on offline notices and emails  
+- Enable students to browse, apply, and track opportunities  
+- Deliver a scalable and future-ready digital placement system
 
 ---
 
 ## 🛠️ **Technologies Used**
 
-| Layer        | Technology                         |
-|--------------|-------------------------------------|
-| 💻 **Frontend**     | HTML5, CSS3, JavaScript              |
-| 🔥 **Backend/Hosting** | Firebase Realtime Database & Hosting |
-| 🛠️ **Development Tools** | Visual Studio Code, GitHub             |
-| 🌐 **Version Control & Deployment** | Git + GitHub Pages          |
+| Layer                     | Technology                            |
+|---------------------------|----------------------------------------|
+| 💻 Frontend               | HTML5, CSS3, JavaScript                |
+| 🔥 Backend & Hosting      | Firebase (Realtime DB & Hosting)       |
+| 🛠️ Development Tools      | Visual Studio Code, GitHub             |
+| 🌐 Version Control & Deployment | Git + GitHub Pages               |
 
-Firebase was used to manage real-time databases and user data.
+> Firebase is used for real-time data handling, authentication, and cloud-based hosting.
 
 ---
 
@@ -53,30 +41,38 @@ Firebase was used to manage real-time databases and user data.
 ---
 
 ## 🎥 **Video Explanation**
-🎬 *Coming soon* – A complete walkthrough of the HireHub project and its working will be uploaded here shortly.
+🎬 *Coming soon* – Full walkthrough video will be uploaded here soon.
 
 ---
 
 ## 📘 **Project Report**
-📎 [Click to view Project Report](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
+📄 [View Report](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
+
 ---
 
-## 🌐 **Live Project Link**
-🚀 [Click to view Project Link](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
+## 🌐 **Live Project**
+🔗 [Open Project](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
+
 ---
 
 ## 🏁 **Final Note**
 
-This project was developed as part of the **Mini Project requirement for Semester 2** at K.R. Mangalam University.  
-Through this project, we learned how to build a scalable and real-time web application by integrating front-end development with cloud-based backend services.
+This project was developed as part of the **Semester 2 Mini Project** at *K.R. Mangalam University*.  
+It demonstrates our ability to build full-stack, real-time web applications using modern technologies. We worked collaboratively to design, develop, test, and deploy this application for a real-world institutional use case.
 
-Our goal was to not only solve a practical institutional problem but also apply our growing technical skills in a collaborative, professional workflow.  
-We look forward to evolving this project with future features such as:
-- Admin management panel  
-- Recruiter login & job posting module  
-- Resume uploads  
+### 🧩 Future Enhancements
+- Admin dashboard & recruiter panel  
+- Resume uploads and user profiles  
 - Real-time notifications  
-
-Thank you for exploring our project!
+- Advanced job filtering system
 
 ---
+
+## 👨‍💻 **Team Members**
+
+| 👤 Name                   | 🆔 Roll Number   | 🎓 Course                |
+|--------------------------|------------------|--------------------------|
+| **Boora Anju**           | 2401830009       | B.Sc. Cyber Security     |
+| **Sidharth Krishna S**   | 2401720003       | B.Sc. Computer Science   |
+| **Ankit Yadav**          | 2401720012       | B.Sc. Computer Science   |
+| **K Sai Vignesh Yadav**  | 2401720006       | B.Sc. Computer Science   |
