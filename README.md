@@ -38,7 +38,7 @@ The system serves as a digital bridge between aspiring candidates and potential 
 | 🛠️ **Development Tools** | Visual Studio Code, GitHub             |
 | 🌐 **Version Control & Deployment** | Git + GitHub Pages          |
 
-Firebase was used to manage real-time databases, user data.
+Firebase was used to manage real-time databases and user data.
 
 ---
 
@@ -59,16 +59,10 @@ Firebase was used to manage real-time databases, user data.
 
 ## 📘 **Project Report**
 📎 [Click to view Project Report](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
-
-The report outlines our motivation, research background, detailed system design, implementation strategy, testing, and results.
-
 ---
 
 ## 🌐 **Live Project Link**
 🚀 [Click to view Project Link](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
-
-
-
 ---
 
 ## 🏁 **Final Note**
@@ -86,5 +80,3 @@ We look forward to evolving this project with future features such as:
 Thank you for exploring our project!
 
 ---
-
-
