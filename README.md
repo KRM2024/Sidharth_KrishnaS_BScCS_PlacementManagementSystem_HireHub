@@ -24,7 +24,7 @@ The system serves as a digital bridge between aspiring candidates and potential 
 | Layer                     | Technology                            |
 |---------------------------|----------------------------------------|
 | 💻 Frontend               | HTML5, CSS3, JavaScript                |
-| 🔥 Backend & Hosting      | Firebase (Realtime DB)                 |
+| 🔥 Backend      | Firebase (Realtime DB)                 |
 | 🛠️ Development Tools      | Visual Studio Code, GitHub             |
 | 🌐 Version Control & Deployment | GitHub Pages                  |
 
