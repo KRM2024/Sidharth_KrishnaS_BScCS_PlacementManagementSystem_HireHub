@@ -1,6 +1,7 @@
 # 📂 **Placement Management System – HireHub**
 
-*A smart, responsive platform to streamline university placement workflows, connect students with recruiters, and enhance the job-seeking experience.*
+**A smart, responsive platform to streamline university placement workflows, connect students with recruiters, and enhance the job-seeking experience.*
+enabling seamless interaction between students, recruiters, and administrators.*
 
 ---
 
@@ -17,17 +18,27 @@
 
 ## 📄 **Project Description**
 
-**HireHub** is a centralized web-based Placement Management System that simplifies how students connect with job opportunities, internships, and training programs.  
-It provides an intuitive interface for students and recruiters to engage, making the placement process efficient, transparent, and user-friendly.
+**HireHub** is a modern, web-based Placement Management System tailored for academic institutions. The platform empowers students to explore job and internship opportunities, simplifies the recruitment process for organizations, and facilitates centralized control for administrators.
+
+The system serves as a digital bridge between aspiring candidates and potential employers by offering a centralized portal for job listings, applications, and recruitment communications. Its core goal is to eliminate manual procedures, reduce delays, and enhance transparency in campus placements.
+
+**Key Goals:**
+- Reduce dependency on offline notices and emails.
+- Allow students to browse, apply, and track opportunities with ease.
+- Provide a scalable and future-ready digital placement system.
 
 ---
 
 ## 🛠️ **Technologies Used**
 
-- 💻 **Frontend**: HTML5, CSS3, JavaScript  
-- 🔥 **Backend/Hosting**: Firebase  
-- 🛠️ **Development Tools**: Visual Studio Code  
-- 🌐 **Version Control & Deployment**: GitHub Pages
+| Layer        | Technology                         |
+|--------------|-------------------------------------|
+| 💻 **Frontend**     | HTML5, CSS3, JavaScript              |
+| 🔥 **Backend/Hosting** | Firebase Realtime Database & Hosting |
+| 🛠️ **Development Tools** | Visual Studio Code, GitHub             |
+| 🌐 **Version Control & Deployment** | Git + GitHub Pages          |
+
+Firebase was used to manage real-time databases, user data.
 
 ---
 
@@ -42,23 +53,38 @@ It provides an intuitive interface for students and recruiters to engage, making
 ---
 
 ## 🎥 **Video Explanation**
-🔗 *Coming soon* — The walkthrough video link will be added after upload.
+🎬 *Coming soon* – A complete walkthrough of the HireHub project and its working will be uploaded here shortly.
 
 ---
 
 ## 📘 **Project Report**
-📎 [Project Report Link](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
+📎 [Click to view Project Report](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
+
+The report outlines our motivation, research background, detailed system design, implementation strategy, testing, and results.
 
 ---
 
-## 🌐 **Project Link**
-🚀 [Project Link](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
+## 🌐 **Live Project Link**
+🚀 [Click to view Project Link](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
+
+
 
 ---
 
 ## 🏁 **Final Note**
 
-This project was developed as part of the Semester 2 Mini Project requirement.  
-It highlights our ability to build real-world web applications using core frontend and backend technologies, while focusing on user experience, functionality, and clean UI design.
+This project was developed as part of the **Mini Project requirement for Semester 2** at K.R. Mangalam University.  
+Through this project, we learned how to build a scalable and real-time web application by integrating front-end development with cloud-based backend services.
+
+Our goal was to not only solve a practical institutional problem but also apply our growing technical skills in a collaborative, professional workflow.  
+We look forward to evolving this project with future features such as:
+- Admin management panel  
+- Recruiter login & job posting module  
+- Resume uploads  
+- Real-time notifications  
+
+Thank you for exploring our project!
 
 ---
+
+
