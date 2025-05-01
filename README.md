@@ -10,7 +10,9 @@
 
 The system serves as a digital bridge between aspiring candidates and potential employers by offering a centralized portal for job listings, applications, and recruitment communications. Its core goal is to eliminate manual procedures, reduce delays, and enhance transparency in campus placements.
 
-### 🎯 **Key Goals**
+---
+
+## 🎯 **Key Goals**
 - Minimize dependency on offline notices and emails  
 - Enable students to browse, apply, and track opportunities  
 - Deliver a scalable and future-ready digital placement system
@@ -22,11 +24,11 @@ The system serves as a digital bridge between aspiring candidates and potential 
 | Layer                     | Technology                            |
 |---------------------------|----------------------------------------|
 | 💻 Frontend               | HTML5, CSS3, JavaScript                |
-| 🔥 Backend & Hosting      | Firebase (Realtime DB & Hosting)       |
+| 🔥 Backend & Hosting      | Firebase (Realtime DB)       |
 | 🛠️ Development Tools      | Visual Studio Code, GitHub             |
-| 🌐 Version Control & Deployment | Git + GitHub Pages               |
+| 🌐 Version Control & Deployment | GitHub Pages               |
 
-> Firebase is used for real-time data handling, authentication, and cloud-based hosting.
+
 
 ---
 
@@ -60,7 +62,7 @@ The system serves as a digital bridge between aspiring candidates and potential 
 This project was developed as part of the **Semester 2 Mini Project** at *K.R. Mangalam University*.  
 It demonstrates our ability to build full-stack, real-time web applications using modern technologies. We worked collaboratively to design, develop, test, and deploy this application for a real-world institutional use case.
 
-### 🧩 Future Enhancements
+## 🧩 Future Enhancements
 - Admin dashboard & recruiter panel  
 - Resume uploads and user profiles  
 - Real-time notifications  
