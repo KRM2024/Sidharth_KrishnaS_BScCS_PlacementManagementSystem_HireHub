@@ -47,12 +47,12 @@ It provides an intuitive interface for students and recruiters to engage, making
 ---
 
 ## 📘 **Project Report**
-📎 [Click here to view the Project Report (PDF)](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
+📎 [Project Report Link](https://github.com/KRM2024/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/blob/df1284f12f2cd415716392440f57ec9ecaf2333d/PROJECT%20REPORT.pdf)
 
 ---
 
-## 🌐 **Live Project**
-🚀 [Click here to visit the Live Website](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
+## 🌐 **Project Link**
+🚀 [Project Link](https://krm2024.github.io/Sidharth_KrishnaS_BScCS_PlacementManagementSystem_HireHub/)
 
 ---
 
