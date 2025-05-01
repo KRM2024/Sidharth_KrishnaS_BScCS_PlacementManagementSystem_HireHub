@@ -24,11 +24,9 @@ The system serves as a digital bridge between aspiring candidates and potential 
 | Layer                     | Technology                            |
 |---------------------------|----------------------------------------|
 | 💻 Frontend               | HTML5, CSS3, JavaScript                |
-| 🔥 Backend & Hosting      | Firebase (Realtime DB)       |
+| 🔥 Backend & Hosting      | Firebase (Realtime DB)                 |
 | 🛠️ Development Tools      | Visual Studio Code, GitHub             |
-| 🌐 Version Control & Deployment | GitHub Pages               |
-
-
+| 🌐 Version Control & Deployment | GitHub Pages                  |
 
 ---
 
@@ -57,16 +55,13 @@ The system serves as a digital bridge between aspiring candidates and potential 
 
 ---
 
-## 🏁 **Final Note**
-
-This project was developed as part of the **Semester 2 Mini Project** at *K.R. Mangalam University*.  
-It demonstrates our ability to build full-stack, real-time web applications using modern technologies. We worked collaboratively to design, develop, test, and deploy this application for a real-world institutional use case.
-
-## 🧩 Future Enhancements
-- Admin dashboard & recruiter panel  
-- Resume uploads and user profiles  
-- Real-time notifications  
-- Advanced job filtering system
+## 🧩 **Future Enhancements**
+- Admin dashboard and recruiter panel  
+- Resume uploads and student profiles  
+- Real-time email or SMS notifications  
+- Advanced search and filtering features  
+- Recruiter-side job posting and status updates  
+- Role-based dashboards and reporting tools
 
 ---
 
@@ -78,3 +73,14 @@ It demonstrates our ability to build full-stack, real-time web applications usin
 | **Sidharth Krishna S**   | 2401720003       | B.Sc. Computer Science   |
 | **Ankit Yadav**          | 2401720012       | B.Sc. Computer Science   |
 | **K Sai Vignesh Yadav**  | 2401720006       | B.Sc. Computer Science   |
+
+---
+
+## 🏁 **Final Note**
+
+This project reflects our collective effort in understanding how real-world web platforms are built — from designing a problem-solving idea, building responsive front-end pages, integrating backend functionality with Firebase, and deploying it live using GitHub Pages.
+
+It challenged us to think critically, collaborate effectively, and apply programming skills in a way that solves practical problems.  
+**HireHub** is more than just a student project — it is a scalable, real-world application with future potential for institutions, startups, and recruitment platforms alike.
+
+Thank you for taking the time to explore our work! 🙌
