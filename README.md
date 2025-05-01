@@ -62,5 +62,3 @@ This project was developed as part of the Semester 2 Mini Project requirement.
 It highlights our ability to build real-world web applications using core frontend and backend technologies, while focusing on user experience, functionality, and clean UI design.
 
 ---
-
-📌 *For any suggestions, feedback, or improvements — feel free to open an issue or contact us via GitHub.*
