@@ -41,7 +41,7 @@ The system serves as a digital bridge between aspiring candidates and potential 
 ---
 
 ## 🎥 **Video Explanation**
-🎬 *Coming soon* – Full walkthrough video will be uploaded here soon.
+🎬  [View Video Presentation](https://www.dropbox.com/scl/fi/z4tuctaum0wqueqicakyn/Hire-Hub-Mini-Project-G205-2024-2025-PROJECT-VIDEO-PRESENTATION.mp4?rlkey=3wyzi71ajn0fvgyltausp13nu&st=pdn6vi2b&dl=0)
 
 ---
 
